@@ -42,6 +42,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight=".3"
+            android:onClick="loadConstraintLayout"
             android:text="LOAD" />
     </LinearLayout>
 
@@ -63,6 +64,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight=".3"
+            android:onClick="loadTableLayout"
             android:text="LOAD" />
     </LinearLayout>
 
